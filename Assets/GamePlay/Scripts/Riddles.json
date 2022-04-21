@@ -1,0 +1,599 @@
+{
+  "levels": [
+    {
+      "UID": 1,
+      "GridSize": 3,
+      "Riddle": "What 3 letter word starts with S and ends with X and has a vowel in the middle?",
+      "AnswerWords": [ "s,i,x" ],
+      "Extra": "e,s,v,x,f,e,g,h,e,t,j,i,e"
+    },
+    {
+      "UID": 2,
+      "GridSize": 4,
+      "Riddle": "What does a cow have four of that a woman only has two of?",
+      "AnswerWords": [ "l,e,g,s" ],
+      "Extra": "v,d,b,b,a,o,o,o,z,x,c,b"
+    },
+    {
+      "UID": 3,
+      "GridSize": 4,
+      "Riddle": "Which organ of girls gets wet when fingered?",
+      "AnswerWords": [ "e,y,e" ],
+      "Extra": "c,d,f,c,u,i,n,p,t,u,t,n"
+    },
+    {
+      "UID": 4,
+      "GridSize": 3,
+      "Riddle": "What four letter word that ends in “K” means the same as intercourse?",
+      "AnswerWords": [ "t,a,l,k" ],
+      "Extra": "d,f,e,u,r,u,i,u,e,s,x,f"
+    },
+    {
+      "UID": 5,
+      "GridSize": 4,
+      "Riddle": "What part of a man's body, that has no bone, full of veins, loves pumping, is responsible for making love?",
+      "AnswerWords": [ "h,e,a,r,t" ],
+      "Extra": "i,s,b,l,r,l,a,u,b,s,l"
+    },
+    {
+      "UID": 6,
+      "GridSize": 3,
+      "Riddle": "What’s beautiful and natural, but gets long and prickly if it isn't trimmed regularly?",
+      "AnswerWords": [ "l,a,w,n" ],
+      "Extra": "u,p,r,b,h,u,i,d,s,h,y,y,b"
+    },
+    {
+      "UID": 7,
+      "GridSize": 4,
+      "Riddle": "I am long, you move me around with your lips and tongue, I get wet with saliva and I get sucked. What am I?",
+      "AnswerWords": [ "s,t,r,a,w" ],
+      "Extra": "e,p,e,y,u,i,o,n,p,i,d,b,s"
+    },
+    {
+      "UID": 8,
+      "GridSize": 3,
+      "Riddle": "You stick your poles inside me. You tie me down to get me up. I get wet before you do. What am I?",
+      "AnswerWords": [ "t,e,n,t" ],
+      "Extra": "s,u,d,c,k,f,g,h,u,k"
+    },
+    {
+      "UID": 9,
+      "GridSize": 4,
+      "Riddle": "Your finger fits right in it. You play with it when you're bored. Once you're married, you're stuck with the same one forever. What is it?",
+      "AnswerWords": [ "r,i,n,g" ],
+      "Extra": "c,y,p,s,f,u,h,y,e,s,p"
+    },
+    {
+      "UID": 10,
+      "GridSize": 4,
+      "Riddle": "I come in many sizes. When I'm not well, I drip. When you blow me, I feel good",
+      "AnswerWords": [ "n,o,s,e" ],
+      "Extra": "e,n,r,p,p,i,x,p,a,s,d"
+    },
+    {
+      "UID": 11,
+      "GridSize": 6,
+      "Riddle": "Arnold Schwarzenegger's is really long. Michael J. Fox's is really short. Madonna doesn't have one. What is it?",
+      "AnswerWords": [ "l,a,s,t,,n,a,m,e" ],
+      "Extra": "w,c,p,o,k,b,c,o,r,h,k,s"
+    },
+    {
+      "UID": 12,
+      "GridSize": 4,
+      "Riddle": "Which organ of boys changes size as per required? It starts with the letter \"p\".",
+      "AnswerWords": [ "p,u,p,i,l" ],
+      "Extra": "i,s,p,s,p,e,b,i,s,l,u,n"
+    },
+    {
+      "UID": 13,
+      "GridSize": 5,
+      "Riddle": "What's a 5 letter word that starts with a \"P\" and women absolutely love to get their hands on it?",
+      "AnswerWords": [ "p,u,r,s,e" ],
+      "Extra": "d,e,n,i,e,n,v,p,n,m,n"
+    },
+    {
+      "UID": 14,
+      "GridSize": 4,
+      "Riddle": "I get wet when drying. I get dirty when wiping. What am I?",
+      "AnswerWords": [ "t,o,w,e,l" ],
+      "Extra": "d,x,z,q,p,k,r,y,u"
+    },
+    {
+      "UID": 15,
+      "GridSize": 4,
+      "Riddle": "What’s in a man's pants that you won't find in a girl's dress?",
+      "AnswerWords": [ "p,o,c,k,e,t,s" ],
+      "Extra": "r,a,d,c,k,f,i,c,g,o"
+    },
+    {
+      "UID": 16,
+      "GridSize": 5,
+      "Riddle": "You can't taste it until you undress it. What is it?",
+      "AnswerWords": [ "b,a,n,a,n,a" ],
+      "Extra": "c,o,k,c,k,o,m,s,d,z,x,c,s"
+    },
+    {
+      "UID": 17,
+      "GridSize": 4,
+      "Riddle": "What goes in dry and hard but comes out soft and wet?",
+      "AnswerWords": [ "s,p,o,n,g,e" ],
+      "Extra": "i,d,f,k,h,j,c,x,w,a,c,k,o"
+    },
+    {
+      "UID": 18,
+      "GridSize": 4,
+      "Riddle": "What is there in the middle of both legs of girl?",
+      "AnswerWords": [ "k,n,e,e,s" ],
+      "Extra": "y,a,u,a,p,s,w,s,r,p,y,u"
+    },
+    {
+      "UID": 19,
+      "GridSize": 4,
+      "Riddle": "I have a stiff shaft. My tip penetrates. I come with a quiver. What am I?",
+      "AnswerWords": [ "a,r,r,o,w" ],
+      "Extra": "k,h,g,f,d,x,s,v,b,n"
+    },
+    {
+      "UID": 20,
+      "GridSize": 4,
+      "Riddle": "I like to twirl my body but keep my head up high. After I go in, everything becomes tight. What am I?",
+      "AnswerWords": [ "s,c,r,e,w" ],
+      "Extra": "a,z,f,t,y,u,i,h,g,f,d"
+    },
+    {
+      "UID": 21,
+      "GridSize": 3,
+      "Riddle": "What four-letter word begins with “f” and ends with “k,” and if you can't get it you can always just use your hands?",
+      "AnswerWords": [ "f,o,r,k" ],
+      "Extra": "d,u,v,c,u,u,a,s,u"
+    },
+    {
+      "UID": 22,
+      "GridSize": 5,
+      "Riddle": "What goes up, lets out a load, and then goes back down?",
+      "AnswerWords": [ "e,l,e,v,a,t,o,r" ],
+      "Extra": "y,x,c,s,k,n,o,g,f,s,c"
+    },
+    {
+      "UID": 23,
+      "GridSize": 3,
+      "Riddle": "What hangs at a man's thigh and longs to poke the hole it's often poked before?",
+      "AnswerWords": [ "k,e,y" ],
+      "Extra": "b,a,c,l,t,o,l,c,j,k,s"
+    },
+    {
+      "UID": 24,
+      "GridSize": 5,
+      "Riddle": "What's long and hard and has cum in it?",
+      "AnswerWords": [ "c,u,c,u,m,b,e,r" ],
+      "Extra": "s,y,x,a,j,l,p,i,o,x,c,k,n,i"
+    },
+    {
+      "UID": 25,
+      "GridSize": 5,
+      "Riddle": "What's six inches long, goes in your mouth, and is more fun if it vibrates?",
+      "AnswerWords": [ "t,o,o,t,h,b,r,u,s,h" ],
+      "Extra": "a,e,f,x,s,y,p,t,o,t,x,e"
+    },
+    {
+      "UID": 26,
+      "GridSize": 4,
+      "Riddle": "I'm great for protection. You use your fingers to get me off. What am I?",
+      "AnswerWords": [ "g,l,o,v,e,s" ],
+      "Extra": "m,d,c,n,w,d,a,m,c,d"
+    },
+    {
+      "UID": 27,
+      "GridSize": 5,
+      "Riddle": "I go in hard but come out soft, and I never mind if you want to blow me. What am I?",
+      "AnswerWords": [ "b,u,b,b,l,e,g,u,m" ],
+      "Extra": "l,p,c,y,s,b,a,y,a,p"
+    },
+    {
+      "UID": 28,
+      "GridSize": 5,
+      "Riddle": "You have to blow it to play with it. What is it?",
+      "AnswerWords": [ "b,a,l,l,o,o,n" ],
+      "Extra": "s,d,w,x,z,y,p,m,c,f,r"
+    },
+    {
+      "UID": 29,
+      "GridSize": 5,
+      "Riddle": "You cannot eat me unless you lick me.",
+      "AnswerWords": [ "i,c,e,,c,r,e,a,m" ],
+      "Extra": "q,x,s,d,f,z,g,t,h,y,u,j"
+    },
+    {
+      "UID": 30,
+      "GridSize": 5,
+      "Riddle": "When you blow me I get bigger, and the tighter you wrap your lips around me the quicker I enlarge. What am I?",
+      "AnswerWords": [ "b,a,l,l,o,o,n" ],
+      "Extra": "i,s,p,e,r,n,y,u,i,n,p,h,s"
+    },
+    {
+      "UID": 31,
+      "GridSize": 5,
+      "Riddle": "In which situation, do men start sweating in 10 minutes and women want to go on and on and on?",
+      "AnswerWords": [ "s,h,o,p,p,i,n,g" ],
+      "Extra": "u,a,c,t,u,f,k,j,k,t,f"
+    },
+    {
+      "UID": 32,
+      "GridSize": 5,
+      "Riddle": "You play with it at night in bed. You're not allowed to fiddle with it at work. Only very special people are allowed to touch it. What is it?",
+      "AnswerWords": [ "c,e,l,l,p,h,o,n,e" ],
+      "Extra": "s,k,p,l,g,i,y,u,i,s"
+    },
+    {
+      "UID": 33,
+      "GridSize": 3,
+      "Riddle": "What does every woman have that starts with a \"V\" and that she can use to get what she wants?",
+      "AnswerWords": [ "v,o,i,c,e" ],
+      "Extra": "i,g,y,i,n,g,n,j,a,l,a"
+    },
+    {
+      "UID": 34,
+      "GridSize": 5,
+      "Riddle": "What starts with a C and ends with a T, is hairy, oval, delicious and contains thin whitish liquid?",
+      "AnswerWords": [ "c,o,c,o,n,u,t" ],
+      "Extra": "p,s,n,d,s,e,c,y,a,r,u,t,i"
+    },
+    {
+      "UID": 35,
+      "GridSize": 4,
+      "Riddle": "What's made of rubber, handed out at some schools, and exists to prevent some mistakes?",
+      "AnswerWords": [ "e,r,a,s,e,r" ],
+      "Extra": "l,c,t,o,x,c,d,n,d,m,o"
+    },
+    {
+      "UID": 36,
+      "GridSize": 4,
+      "Riddle": "I start with a \"P\" and ends with \"O-R-N\" and I'm a major player in the film industry. What am I?",
+      "AnswerWords": [ "p,o,p,c,o,r,n" ],
+      "Extra": "s,d,f,w,a,t,y,u,i,x,z,l,j,s"
+    },
+    {
+      "UID": 37,
+      "GridSize": 5,
+      "Riddle": "I'm sometimes long, sometimes short, sometimes hard, sometimes soft and not only that people love me and if you squeeze me just right then I'll ooze out a little bit. What am I?",
+      "AnswerWords": [ "b,a,n,a,n,a" ],
+      "Extra": "d,s,e,r,t,p,u,i,s,p,e,p"
+    },
+    {
+      "UID": 38,
+      "GridSize": 4,
+      "Riddle": "What's messy and can be really annoying and/or tricky to clean up after sex?",
+      "AnswerWords": [ "f,e,e,l,i,n,g,s" ],
+      "Extra": "s,a,k,r,t,y,u,v,o,k,b,x"
+    },
+    {
+      "UID": 39,
+      "GridSize": 4,
+      "Riddle": "I go in dry and come out wet, The longer I'm in, the stronger it will get. What am I?",
+      "AnswerWords": [ "t,e,a,,b,a,g,s" ],
+      "Extra": "w,r,y,v,x,v,k,l,u,i,o,c"
+    },
+    {
+      "UID": 40,
+      "GridSize": 5,
+      "Riddle": "What’s white, sticky and better to spit than to swallow?",
+      "AnswerWords": [ "t,o,o,t,h,p,a,s,t,e" ],
+      "Extra": "b,u,f,g,u,k,l,m,m,c"
+    },
+    {
+      "UID": 41,
+      "GridSize": 5,
+      "Riddle": "If I miss, I hit your bush. It's my job to stuff your box. When I come, it's news. What am I?",
+      "AnswerWords": [ "p,a,p,e,r,b,o,y" ],
+      "Extra": "u,c,k,o,s,k,q,d,c,f,n"
+    },
+    {
+      "UID": 42,
+      "GridSize": 4,
+      "Riddle": "What do an eggplant, a penis, a celery and a cucumber have in common?",
+      "AnswerWords": [ "l,e,t,t,e,r,,e" ],
+      "Extra": "y,x,s,a,s,x,o,t,y,u,i,o"
+    },
+    {
+      "UID": 43,
+      "GridSize": 6,
+      "Riddle": "What's long and hard and full of seamen?",
+      "AnswerWords": [ "s,u,b,m,a,r,i,n,e" ],
+      "Extra": "p,n,i,s,e,g,a,p,s,b,n,i"
+    },
+    {
+      "UID": 44,
+      "GridSize": 7,
+      "Riddle": "A finger goes in me. You fiddle with me when you're bored. The best man always has me first.",
+      "AnswerWords": [ "w,e,d,d,i,n,g,,r,i,n,g" ],
+      "Extra": "b,r,i,d,e,s,m,a,i,d"
+    },
+    {
+      "UID": 45,
+      "GridSize": 5,
+      "Riddle": "I am a word that starts with an \"F\" and ends in \"C-K\" and when things get really hot, I am exactly what you want.",
+      "AnswerWords": [ "f,i,r,e,t,r,u,c,k" ],
+      "Extra": "x,v,c,b,s,x,z,w,q,a,o,p"
+    },
+    {
+      "UID": 46,
+      "GridSize": 5,
+      "Riddle": "What gets longer if pulled, fits snugly between breasts, slides neatly into a hole, chokes people when used incorrectly, and works well when jerked?",
+      "AnswerWords": [ "s,e,a,t,b,e,l,t" ],
+      "Extra": "c,d,u,o,k,d,c,o,r,k,s,e,h"
+    },
+    {
+      "UID": 47,
+      "GridSize": 6,
+      "Riddle": "Rachel has big, Jennifer has small. Girls have, boys don't.",
+      "AnswerWords": [ "l,e,t,t,e,r,,r" ],
+      "Extra": "b,d,b,w,r,a,e,u,a,o,s,f,t"
+    },
+    {
+      "UID": 48,
+      "GridSize": 7,
+      "Riddle": "Put three fingers in me and it will be a shocking riddle answer.",
+      "AnswerWords": [ "p,o,w,e,r,,s,o,c,k,e,t" ],
+      "Extra": "n,d,s,a,q,m,d,s,x,f,r,i"
+    },
+    {
+      "UID": 49,
+      "GridSize": 5,
+      "Riddle": "Some people prefer to be on top, rest prefer to lie at the bottom. It always involves a bed. What am I?",
+      "AnswerWords": [ "b,u,n,k,,b,e,d" ],
+      "Extra": "q,f,r,t,u,k,u,o,p,f,a,f,c"
+    },
+    {
+      "UID": 50,
+      "GridSize": 4,
+      "Riddle": "Open your legs and get on top of me. Well, do your thing nice and slow, open it wide so that u can do your thing quick. There u go!! You’ve just dropped a bomb on me",
+      "AnswerWords": [ "t,o,i,l,e,t" ],
+      "Extra": "x,n,g,h,m,n,z,w,y,p,w,q,s"
+    },
+    {
+      "UID": 51,
+      "GridSize": 4,
+      "Riddle": "Unless you spread it, you can't enjoy it. What is it?",
+      "AnswerWords": [ "b,u,t,t,e,r" ],
+      "Extra": "f,h,l,g,i,s,l,q,a,v,g,s,e"
+    },
+    {
+      "UID": 52,
+      "GridSize": 5,
+      "Riddle": "You cannot enjoy me unless you suck me.",
+      "AnswerWords": [ "l,o,l,l,y,p,o,p" ],
+      "Extra": "a,v,n,v,r,t,c,i,v,g"
+    },
+    {
+      "UID": 53,
+      "GridSize": 5,
+      "Riddle": "What holds your buns firmly and makes them look round and pretty?",
+      "AnswerWords": [ "h,a,i,r,,t,i,e" ],
+      "Extra": "b,a,g,b,p,r,r,j,x,a,b"
+    },
+    {
+      "UID": 54,
+      "GridSize": 6,
+      "Riddle": "I have nuts and I can get sticky but you lick me off anyway. You can have me for breakfast, lunch or dinner. What am I?",
+      "AnswerWords": [ "p,e,a,n,u,t,,b,u,t,t,e,r" ],
+      "Extra": "s,a,l,i,v,a,m,e,n,e,s,d"
+    },
+    {
+      "UID": 55,
+      "GridSize": 3,
+      "Riddle": "My load is sometimes soft, sometimes hard, is usually warm, and I am sometimes long and sometimes short. What am I?",
+      "AnswerWords": [ "p,o,o,p" ],
+      "Extra": "q,s,e,r,m,a,c,u,g,p,y,u"
+    },
+    {
+      "UID": 56,
+      "GridSize": 3,
+      "Riddle": "What has a head, a shaft, is shaped like a stick and is long and hard?",
+      "AnswerWords": [ "c,a,n,e" ],
+      "Extra": "w,v,y,x,z,u,b,m,j,k,l,p"
+    },
+    {
+      "UID": 57,
+      "GridSize": 4,
+      "Riddle": "What do men keep in their pants that their partners sometimes blow?",
+      "AnswerWords": [ "m,o,n,e,y" ],
+      "Extra": "d,s,w,c,t,o,u,c,b,p,k"
+    },
+    {
+      "UID": 58,
+      "GridSize": 4,
+      "Riddle": "What does a dog do that you can step into?",
+      "AnswerWords": [ "p,a,n,t,s" ],
+      "Extra": "s,y,l,e,t,d,t,y,e,s,l,d,g,o,d"
+    },
+    {
+      "UID": 59,
+      "GridSize": 4,
+      "Riddle": "I sometimes cause pain when I go in. I'll fill your holes if you ask me to. I ask you to spit not swallow. Who am I?",
+      "AnswerWords": [ "d,e,n,t,i,s,t" ],
+      "Extra": "x,o,c,k,a,o,v,r,c,v,n"
+    },
+    {
+      "UID": 60,
+      "GridSize": 4,
+      "Riddle": "You'll find me on a peak, I am sometimes small and sometimes big, sometimes pointy. What am I?",
+      "AnswerWords": [ "n,i,p,p,l,e" ],
+      "Extra": "w,d,f,r,z,c,v,s,a,f,g,j"
+    },
+    {
+      "UID": 61,
+      "GridSize": 4,
+      "Riddle": "I can be dirty, I can be clean, I can be delicate, I can be rough. People sometimes shake me or smack me against my own kind. What am I?",
+      "AnswerWords": [ "h,a,n,d,s" ],
+      "Extra": "w,e,r,t,y,u,i,o,p,b,x,z,f"
+    },
+    {
+      "UID": 62,
+      "GridSize": 7,
+      "Riddle": "What is something that is sometimes long and sometimes short, women love having them and commands a woman's full attention?",
+      "AnswerWords": [ "c,o,n,v,e,r,s,a,t,i,o,n,s" ],
+      "Extra": "y,d,s,g,e,j,k,l,x,s,z,p,e"
+    },
+    {
+      "UID": 63,
+      "GridSize": 5,
+      "Riddle": "It’s a fun thing to do and you devote a significant amount of energy thinking about it, but you hate knowing that your parents are doing it. What is it?",
+      "AnswerWords": [ "f,a,c,e,b,o,o,k" ],
+      "Extra": "s,r,t,e,u,x,l,x,s"
+    },
+    {
+      "UID": 64,
+      "GridSize": 7,
+      "Riddle": "I'm the highlight of many dates. I'm especially responsive when you put your fingers deep inside me. What am I?",
+      "AnswerWords": [ "b,o,w,l,i,n,g,,b,a,l,l" ],
+      "Extra": "q,c,f,v,r,e,z,x,k,v,m,k,p"
+    },
+    {
+      "UID": 65,
+      "GridSize": 5,
+      "Riddle": "What's most useful when it's long and hard?",
+      "AnswerWords": [ "e,d,u,c,a,t,i,o,n" ],
+      "Extra": "f,g,h,j,k,s,v,b,x,y,z"
+    },
+    {
+      "UID": 66,
+      "GridSize": 6,
+      "Riddle": "What do you call an unsinkable virgin?",
+      "AnswerWords": [ "c,h,e,r,r,y,,f,l,o,a,t" ],
+      "Extra": "f,h,r,n,y,p,s,d,w,b,s,i,a"
+    },
+    {
+      "UID": 67,
+      "GridSize": 5,
+      "Riddle": "I grow in a bed, first white then red, and the plumper I get, the better women like me. What am I?",
+      "AnswerWords": [ "s,t,r,a,w,b,e,r,r,y" ],
+      "Extra": "q,z,c,p,n,u,i,o,p,k,l,h,s"
+    },
+    {
+      "UID": 68,
+      "GridSize": 3,
+      "Riddle": "I use electricity and I killed my father. I am a king. I have a lot of girlfriends, but I also have a wife. Who am I?",
+      "AnswerWords": [ "z,e,u,s" ],
+      "Extra": "f,g,h,t,r,d,x,y,w,q,a,c,v"
+    },
+    {
+      "UID": 69,
+      "GridSize": 7,
+      "Riddle": "It has two feathery hoops and is used to chain you in bed. What is it?",
+      "AnswerWords": [ "h,a,n,d,c,u,f,f,s" ],
+      "Extra": "i,p,e,v,b,l,m,j,k,y,g,q"
+    },
+    {
+      "UID": 70,
+      "GridSize": 3,
+      "Riddle": "I wiggle and cannot see, sometimes underground and sometimes on a tree. I really don't want to be on a hook, and I become a person when combined with a book. What am I?",
+      "AnswerWords": [ "w,o,r,m" ],
+      "Extra": "s,f,q,t,y,u,i,n,p,k,l,r"
+    },
+    {
+      "UID": 71,
+      "GridSize": 5,
+      "Riddle": "I am gentle enough to soothe your skin, light enough to fly in the sky, strong enough to crack rocks. What am I?",
+      "AnswerWords": [ "w,a,t,e,r" ],
+      "Extra": "s,b,g,p,o,l,u,i,o,h,t"
+    },
+    {
+      "UID": 72,
+      "GridSize": 4,
+      "Riddle": "I eat, I live. I breathe, I live. I drink, I die. What am I?",
+      "AnswerWords": [ "f,i,r,e" ],
+      "Extra": "q,x,s,d,v,g,h,j,k,l,t,u"
+    },
+    {
+      "UID": 73,
+      "GridSize": 3,
+      "Riddle": "I am a seed with three letters in my name. Take away the last two and I still sound the same. What am I?",
+      "AnswerWords": [ "p,e,a" ],
+      "Extra": "q,x,s,d,f,g,h,j,k,l,z,i"
+    },
+    {
+      "UID": 74,
+      "GridSize": 5,
+      "Riddle": "I am lighter than air but a hundred people cannot lift me. Careful, I am fragile. What am I?",
+      "AnswerWords": [ "b,u,b,b,l,e,s" ],
+      "Extra": "a,d,w,x,r,t,z,o,p,k,i"
+    },
+    {
+      "UID": 75,
+      "GridSize": 4,
+      "Riddle": "I am green and ugly and come out at night with a crumple old broom. Who am I?",
+      "AnswerWords": [ "w,i,t,c,h" ],
+      "Extra": "q,r,e,v,y,u,s,a,f,x,z,b,d"
+    },
+    {
+      "UID": 76,
+      "GridSize": 7,
+      "Riddle": "What is it something that you always have but you always leave behind?",
+      "AnswerWords": [ "f,i,n,g,e,r,p,r,i,n,t,s" ],
+      "Extra": "w,m,u,y,u,d,a,b,z,x,c,v"
+    },
+    {
+      "UID": 77,
+      "GridSize": 4,
+      "Riddle": "I can fall off a building and live, but in water I will die. What am I?",
+      "AnswerWords": [ "p,a,p,e,r" ],
+      "Extra": "f,g,d,s,w,x,z,t,y,u,i,o,l"
+    },
+    {
+      "UID": 78,
+      "GridSize": 4,
+      "Riddle": "I assist an erection. Sometimes big balls hang from me. I'm called a big swinger. What am I?",
+      "AnswerWords": [ "c,r,a,n,e" ],
+      "Extra": "s,i,b,h,i,p,d,s,p,j,k,l"
+    },
+    {
+      "UID": 79,
+      "GridSize": 5,
+      "Riddle": "Which letter is always curious?",
+      "AnswerWords": [ "l,e,t,t,e,r,,y" ],
+      "Extra": "q,w,s,d,f,g,v,n,r,m,w,q,c"
+    },
+    {
+      "UID": 80,
+      "GridSize": 5,
+      "Riddle": "I do not speak, but there is no word I cannot make. What am I?",
+      "AnswerWords": [ "a,l,p,h,a,b,e,t" ],
+      "Extra": "v,d,c,f,v,g,z,x,n,j,m,k"
+    },
+    {
+      "UID": 81,
+      "GridSize": 3,
+      "Riddle": "What is the only 5 letter word that becomes larger when you add the letter ‘r’ to it?",
+      "AnswerWords": [ "l,a,r,g,e" ],
+      "Extra": "n,d,m,w,x,c,v,i,t,y,u"
+    },
+    {
+      "UID": 82,
+      "GridSize": 3,
+      "Riddle": "She is hot. She is sweet. She always needs a lip for a kiss",
+      "AnswerWords": [ "t,e,a" ],
+      "Extra": "d,z,w,r,m,y,u,i,o,d,s,l"
+    },
+    {
+      "UID": 83,
+      "GridSize": 4,
+      "Riddle": "_ _NDOM",
+      "AnswerWords": [ "r,a,n,d,o,m" ],
+      "Extra": "c,b,k,c,e,c,o,f,p,w,k"
+    },
+    {
+      "UID": 84,
+      "GridSize": 3,
+      "Riddle": "Name a word that's four letters long, ends in \"u-n-t\" and is used to refer to some women?",
+      "AnswerWords": [ "a,u,n,t" ],
+      "Extra": "s,d,c,e,c,c,b,c,p,m,d,r"
+    },
+    {
+      "UID": 85,
+      "GridSize": 3,
+      "Riddle": "How do you turn a fruit into a vegetable?",
+      "AnswerWords": [ "a,i,d,s" ],
+      "Extra": "b,o,n,x,e,r,x,s,h,y,e"
+    }
+  ]
+}

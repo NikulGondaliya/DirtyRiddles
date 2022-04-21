@@ -1,0 +1,131 @@
+{
+    "m_SelectedDeviceId": "RZ8NA0CNGSZ",
+    "m_SelectedPackage": {
+        "deviceId": "RZ8NA0CNGSZ",
+        "name": "com.crestvisuals.gp.dirtyriddles",
+        "processId": 6887,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "b346e07a0304",
+            "name": "com.DefaultCompany.DirtyRiddles",
+            "processId": 11125,
+            "exited": true
+        },
+        {
+            "deviceId": "b346e07a0304",
+            "name": "com.miui.home",
+            "processId": 2125,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8NA0CNGSZ",
+            "name": "com.crestvisuals.gp.dirtyriddles",
+            "processId": 31660,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8NA0CNGSZ",
+            "name": "com.crestvisuals.gp.dirtyriddles",
+            "processId": 10783,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8NA0CNGSZ",
+            "name": "com.crestvisuals.gp.dirtyriddles",
+            "processId": 22697,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8NA0CNGSZ",
+            "name": "com.crestvisuals.gp.dirtyriddles",
+            "processId": 28330,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8NA0CNGSZ",
+            "name": "com.crestvisuals.gp.dirtyriddles",
+            "processId": 30704,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8NA0CNGSZ",
+            "name": "com.crestvisuals.gp.dirtyriddles",
+            "processId": 11180,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8NA0CNGSZ",
+            "name": "com.crestvisuals.gp.dirtyriddles",
+            "processId": 13783,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8NA0CNGSZ",
+            "name": "com.crestvisuals.gp.dirtyriddles",
+            "processId": 30788,
+            "exited": true
+        },
+        {
+            "deviceId": "RZ8NA0CNGSZ",
+            "name": "com.crestvisuals.gp.dirtyriddles",
+            "processId": 6887,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 1,
+        "Behavior": 1
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}
